@@ -1,0 +1,10 @@
+Gui program állítása elő a kimeneti fájlokat!
+
+Specifikáció:
+- 4 asztal, színekkel megkülönböztetve
+- Minden asztalon van rendelés
+- Tetszőleges rendelés állítható elő a tetszőleges ételekből
+
+Feladat:
+1. Tervezzük meg a GUI-t!
+2. A specifikáció szerint készítsük el a programot, ami tetszőleges kimenetekkel ad, de a meghatározott formában!

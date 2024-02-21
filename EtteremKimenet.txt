@@ -1,0 +1,17 @@
+Rendelés			Ételek:
+
+Piros				Babgulyás|1700
+Babgulyás			Rántott sajt|1900
+Rántott sajt			Gyümölcsleves|1500
+				Bécsi szelet|2200
+Zöld				Somlói galuska|1500
+Gyümölcsleves
+Bécsi szelet
+Somlói galuska
+
+Kék
+Gyümölcsleves
+Rántott sajt
+
+Fehér
+Bécsi szelet
